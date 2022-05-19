@@ -1,4 +1,3 @@
-#리스트[2]
 #리스트에 데이터 추가하기/append 사용
 
 A = ['apple', 'cake', 'cheese']
